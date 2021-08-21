@@ -193,6 +193,6 @@ Project Link: [https://github.com/hpfish/eula](https://github.com/hpfish/eula)
 [issues-shield]: https://img.shields.io/github/issues/hpfish/repo.svg?style=for-the-badge
 [issues-url]: https://github.com/hpfish/eula/issues
 [license-shield]: https://img.shields.io/github/license/hpfish/repo.svg?style=for-the-badge
-[license-url]: https://github.com/hpfish/eula/blob/master/LICENSE.txt
+[license-url]: https://github.com/hpfish/eula/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/hpfish
