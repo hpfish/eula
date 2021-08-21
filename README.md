@@ -184,15 +184,15 @@ Project Link: [https://github.com/hpfish/eula](https://github.com/hpfish/eula)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/hpfish/repo.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/hpfish/eula.svg?style=for-the-badge
 [contributors-url]: https://github.com/hpfish/eula/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/hpfish/repo.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/hpfish/eula.svg?style=for-the-badge
 [forks-url]: https://github.com/hpfish/eula/network/members
-[stars-shield]: https://img.shields.io/github/stars/hpfish/repo.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/hpfish/eula.svg?style=for-the-badge
 [stars-url]: https://github.com/hpfish/eula/stargazers
-[issues-shield]: https://img.shields.io/github/issues/hpfish/repo.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/hpfish/eula.svg?style=for-the-badge
 [issues-url]: https://github.com/hpfish/eula/issues
-[license-shield]: https://img.shields.io/github/license/hpfish/repo.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/hpfish/eula.svg?style=for-the-badge
 [license-url]: https://github.com/hpfish/eula/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/hpfish
